@@ -232,6 +232,16 @@ body {
     display: block;
 }
 
+.message p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+.message a {
+    color: #000;
+    font-weight: 500;
+}
+
 .message.error {
     background: #f0f0f0;
     color: #000;
