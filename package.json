@@ -1,0 +1,15 @@
+{
+  "name": "early-user-email-database",
+  "version": "1.0.0",
+  "description": "A minimal black and white website for collecting early user emails.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.87.2"
+  }
+}
